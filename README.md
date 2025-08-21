@@ -11,5 +11,5 @@ git commit -m "Add Bank Synchronization Demo — Race Condition vs Lock"
 
 # 3) connect with GitHub repo
 git branch -M main
-git remote add origin https://github.com/USERNAME/bank-synchronization-demo.git
+git remote add origin https://github.com/utkarshtri05/bank-synchronization-demo.git
 git push -u origin main
